@@ -13,6 +13,8 @@
 
 <h2>Network Diagram</h2>
 <p>The network diagram illustrates the flow of data and the interaction between various components in the SOC Lab. Below is an explanation of each component and its role in the lab.</p>
+<p>The network diagram illustrates the flow of data and the interaction between various components in the SOC Lab.</p>
+<img src="images/map.jpg" alt="Network Diagram" style="width:100%; max-width:800px;">
 
 <h2>Components</h2>
 
