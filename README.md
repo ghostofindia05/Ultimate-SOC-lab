@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ultimate SOC Lab </title>
+  
 </head>
 <body>
 
-<h1>Ultimate SOC Lab - README</h1>
+<h1>Ultimate SOC Lab </h1>
 
 <p>This README provides an overview of the architecture and components of the Ultimate SOC (Security Operations Center) Lab. The lab is designed to emulate a real-world SOC environment with a focus on cybersecurity monitoring, threat detection, and incident response.</p>
 
@@ -90,6 +90,7 @@
 
 <h2>Conclusion</h2>
 <p>The Ultimate SOC Lab is a powerful environment for practicing and refining cybersecurity skills. By integrating leading security tools and platforms, the lab provides a comprehensive ecosystem for monitoring, threat detection, and incident response. Use this lab to gain hands-on experience with modern security technologies and improve your SOC capabilities.</p>
-
+<li>You can also find installation,Configurationand testing in our YT channel https://www.youtube.com/@in_ghost05</li>
+<li>Join our discord channel for resources and to make friends https://discord.com/invite/675s2Hrjcy</li>
 </body>
 </html>
