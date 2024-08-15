@@ -16,7 +16,8 @@
 <p>The network diagram illustrates the flow of data and the interaction between various components in the SOC Lab.</p>
 <img src="images/map.jpg" alt="Network Diagram" style="width:100%; max-width:800px;">
 
-<p>For configuration details, check the <a href="config.md">config.md</a> file.</p>
+<h2>Installation and configuration</h2>
+<p>For configuration details, check the <a href="mian_config.md">config.md</a> file.</p>
 
 <h2>Components</h2>
 
