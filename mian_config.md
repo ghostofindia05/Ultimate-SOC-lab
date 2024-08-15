@@ -4,13 +4,13 @@ Welcome to the Configuration Guide! Below you'll find links to detailed configur
 
 ## Configuration Guides
 
-1. [Wazuh Configuration Guide](wazuh.md)  
+1. [Wazuh Configuration Guide](Wazuh.md)  
    Learn how to install and configure Wazuh for security monitoring, threat detection, and compliance auditing.
 
-2. [IRIS Configuration Guide](iris.md)  
+2. [IRIS Configuration Guide](IRIS.md)  
    Discover how to set up and configure the IRIS platform for threat intelligence and incident response.
 
-3. [Graylog Configuration Guide](graylog.md)  
+3. [Graylog Configuration Guide](Graylog.md)  
    Explore the steps to install and configure Graylog for log management and real-time analysis.
 
 4. [SOC Fortress Copilot Configuration Guide](soc_fortress_copilot.md)  
