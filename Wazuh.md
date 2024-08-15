@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wazuh Configuration Guide</title>
-</head>
-<body>
+
     <h1>Wazuh Configuration Guide</h1>
     <h2>Overview</h2>
     <p>Wazuh is an open-source security monitoring tool that helps in threat detection, integrity monitoring, and compliance auditing.</p>
@@ -27,5 +20,4 @@
     <h3>2. Start Wazuh Service</h3>
     <pre><code>sudo systemctl start wazuh-manager
 sudo systemctl enable wazuh-manager</code></pre>
-</body>
-</html>
+
