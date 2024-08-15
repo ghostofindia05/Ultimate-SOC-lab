@@ -43,4 +43,28 @@ Execute the file:
 ```
 ./dockerinstall.sh
 ```
+<p>After installing we will create user and add it to docker group</p>
+Adding user ghost and confirm your pasword
+```
+adduser ghost
+```
+Adding user ghost to docker group
+```
+usermod -aG docker ghost
+```
+If u want to login to ghost user using ssh
+```
+cp -r .ssh /home/ghsot
+```
+Changes the ownership of the /home/ghost directory and all its contents (files and subdirectories) to the user ghost
+
+```
+chown -R auth /home/ghost ghost
+```
+Now reboot
+```
+reboot
+```
+
+
 
