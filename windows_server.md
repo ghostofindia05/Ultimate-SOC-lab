@@ -1,4 +1,3 @@
-<title>Windows Server Configuration Guide</title>
 <h1>Windows Server Configuration Guide</h1>
 <h2>Overview</h2>
 <p>Windows Server is a robust, enterprise-grade server operating system developed by Microsoft.</p>
