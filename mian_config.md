@@ -40,5 +40,3 @@ Here is a visual representation of the infrastructure setup:
 ## How to Use
 
 Click on any of the links above to be redirected to the detailed configuration guide for that specific tool or system.
-
-If you have any questions or run into issues, feel free to open an issue in this repository.
