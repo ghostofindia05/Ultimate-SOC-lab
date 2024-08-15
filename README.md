@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ultimate SOC Lab - README</title>
+  <title>Ultimate SOC Lab </title>
 </head>
 <body>
 
