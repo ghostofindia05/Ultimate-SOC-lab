@@ -8,8 +8,8 @@
     <pre><code>git clone https://your-iris-repo-url</code></pre>
 
     <h3>2. Install Dependencies</h3>
-    <pre><code>cd iris
-sudo apt-get install -y dependencies</code></pre>
+    <pre><code>cd iris</code></pre>
+    <pre><code>sudo apt-get install -y dependencies</code></pre>
 
     <h2>Configuration</h2>
     <h3>1. Modify Configuration Files</h3>
