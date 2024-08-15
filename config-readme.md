@@ -17,7 +17,7 @@
 <p>Allow the script to complete the installation. At this point, you might want to log out and log back in. This will allow you to use the <code>docker-compose</code> commands without needing to prepend <code>sudo</code> to them.</p>
 
 <h1>Docker, Docker-Compose, Portainer-CE, and Nginx Proxy Manager Installation Guide Method-2</h1>
-## Install Using Root (Non-Root method below)
+## Install Using Root
 
 To install the newest versions of sudo (optional depending on which script you use), curl, Docker, and docker compose, simply ssh into your server, then clone this repository with: 
 
