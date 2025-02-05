@@ -6,7 +6,7 @@ Buy a domain and configure it to cloudflare dns servers or you can transfer doma
 ## 2. Wazuh Server Installation, Configuration & Connecting to Cloudflare
 
 ### Install Wazuh in Ubuntu Server
-Refer to the [Wazuh Quickstart Documentation]([https://documentation.wazuh.com/current/installation-guide/index.html](https://documentation.wazuh.com/current/quickstart.html) for installation steps.
+Refer to the [Wazuh Quickstart Documentation]([(https://documentation.wazuh.com/current/quickstart.html)]for installation steps.
 
 ### Configure the Wazuh Manager
 Before proceeding with the Windows agent, ensure the Wazuh Manager is configured to use a password.
