@@ -51,7 +51,22 @@ Before proceeding with the Windows agent, ensure the Wazuh Manager is configured
 3. Secure the file by changing permissions:
     ```bash
     sudo chmod 600 /var/ossec/etc/authd.pass
+    
     ```
+
+#### b)Install cloudflared on Linux
+
+Run the following commands:
+
+```bash
+curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && \
+sudo dpkg -i cloudflared.deb && \
+sudo cloudflared service install <Auth key>
+
+```
+
+
+
 
 ## 3. Configuration of Wazuh in Windows Endpoint
 
