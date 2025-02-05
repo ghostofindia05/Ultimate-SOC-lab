@@ -66,6 +66,9 @@ sudo cloudflared service install <Auth key>
 ```
 
 
+As per below images forward ports 1515 for agent-register,1514 for agent comunication,443 for web UI,U can also forward 55000 for API but uts optional.
+<img src="1.jpg" alt="img1" style="width:100%; max-width:800px;">
+<img src="2.jpg" alt="img2" style="width:100%; max-width:800px;">
 
 
 ## 3. Configuration of Wazuh in Windows Endpoint
