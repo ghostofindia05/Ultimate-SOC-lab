@@ -1,5 +1,10 @@
 # Wazuh Integration with Cloudflare and Windows Endpoints
 
+#Reference Documentation
+1. [Wazuh Quickstart Documentation](https://documentation.wazuh.com/current/quickstart.html)
+2. .[CloudFlare TCP Tunnels](https://developers.cloudflare.com/cloudflare-one/applications/non-http/cloudflared-authentication/arbitrary-tcp/#connect-from-a-client-machine)
+
+
 ## 1. Configure Your Domain with Cloudflare
 Buy a domain and configure it to cloudflare dns servers or you can transfer domain to cloudflare just by changing name servers where you brought domain.
 
