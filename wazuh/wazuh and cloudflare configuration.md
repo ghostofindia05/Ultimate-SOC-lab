@@ -1,7 +1,7 @@
 # Wazuh Integration with Cloudflare and Windows Endpoints
 
 ## 1. Configure Your Domain with Cloudflare
-Buy a domain and configure it to cloudflare dns servers.
+Buy a domain and configure it to cloudflare dns servers or you can transfer domain to cloudflare just by changing name servers where you brought domain.
 
 ## 2. Wazuh Server Installation, Configuration & Connecting to Cloudflare
 
