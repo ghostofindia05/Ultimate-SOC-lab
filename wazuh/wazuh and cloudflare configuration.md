@@ -135,3 +135,6 @@ Refer to the [Cloudflare Zero Trust Documentation](https://developers.cloudflare
 
 ### Test the Task
 - Reboot the system to confirm that the commands run at startup.
+ ```
+  agent-auth.exe -m 127.0.0.1 -p 4545 -P "7X?rYN1w3&?G"
+```
